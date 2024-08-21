@@ -54,9 +54,11 @@ Here are some ideas to get you started:
 <!-- <a href= "https://zjdx1998.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a> -->
 </p>
 
-<!-- <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=zjdx1998.zjdx1998" alt="visitor badge"/>    
-</p> -->
+<p  align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zephyr596&show_icons=true&locale=en&layout=compact" alt="zephyr596" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zephyr596&" alt="zephyr596" /></p>
+<!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=zjdx1998.zjdx1998" alt="visitor badge"/>     -->
+</p>
 
 </p>
 
