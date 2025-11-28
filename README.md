@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 B.E. Computer Software Engineering @ Southeast University, M.S. Computer Science @ King Abdullah University of Science&Technology, SA.
 - 🦫 Ex-Intel, UbiQuant.
-- 🌱 I’m interested in LLM, Cloud Native, and other general fullstack development.
+- 🌱 I’m interested in LLM, CV, Edge AI, Cloud Native, and other general fullstack development.
 - 💬 Ask me about anything.
 <!-- - 📫 How to reach me: https://www.linkedin.com/in/jeromyzhang/ -->
 <!--
