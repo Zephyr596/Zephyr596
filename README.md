@@ -11,7 +11,7 @@ I build reliable systems across edge devices, AI, cloud infrastructure, and prod
 
 My work sits at the intersection of **systems engineering, AI, and real-world products**.
 
-Recent work includes end-to-end software for intelligent diving hardware [@arexvision](www.arexvision.com) —from
+Recent work includes end-to-end software for intelligent diving hardware [arexvision](https://rexvision.com) —from
 decompression algorithms and embedded systems to edge AI, mobile apps,
 cloud services, data infrastructure, and internal engineering platforms.
 
